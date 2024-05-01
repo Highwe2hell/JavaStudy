@@ -1,5 +1,5 @@
-public class VariableTest{
-	public static void main(String[] args){
+public class VariableTest {
+	public static void main(String[] args) {
 		//一开始没有乘客
 		int count = 0;
 		//第一站：上来一位乘客
