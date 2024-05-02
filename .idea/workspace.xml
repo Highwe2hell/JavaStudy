@@ -5,17 +5,312 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9e8c890-0698-40ef-afd6-06b798378aa0" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-code/01-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-code/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-code/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/01-Java入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/cmd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/image-20210923091350952.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/image-20210923091527227.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/image-20210923091544110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/image-20210923091654365.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/image-20210923091710450.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/image-20210923091721035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-note/assets/image-20210923100419575.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/01-注释/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/01-注释/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/02-字面量/ValueDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/02-字面量/ValueDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/02-字面量/ValueDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/02-字面量/ValueDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/03-变量/VariableDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/03-变量/VariableDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/03-变量/VariableDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/03-变量/VariableDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/03-变量/VariableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/03-变量/VariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/04-数据类型/VariableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/04-数据类型/VariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/04-数据类型/VariableTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/04-数据类型/VariableTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/04-数据类型/VariableTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/04-数据类型/VariableTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/04-数据类型/VariableTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/04-数据类型/VariableTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/05-键盘录入/ScannerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/05-键盘录入/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/05-键盘录入/ScannerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/05-键盘录入/ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/06-IDEA/06-IDEA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/06-IDEA/src/com/javastudy/demo/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/02-Java基础概念.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea使用1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/idea安装9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/下载1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/下载2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/下载3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改模块名1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改模块名3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改模块名4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改模块名5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改类名1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改类名2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改类名3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改项目1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改项目2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改项目3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改项目4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改项目5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改项目6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/修改项目7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/关闭项目1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/关闭项目2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/关闭项目3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/删除模块1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/删除模块2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/删除模块3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/删除类文件1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/删除类文件2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/安装1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/安装2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/安装3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/安装4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/导入模块9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/打开项目1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/打开项目2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/打开项目3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建模块1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建模块2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建模块3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建模块4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建模块5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建模块6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建模块7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建类1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建类2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建类3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建项目1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建项目2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建项目3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建项目4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建项目5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-note/img/新建项目6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/03-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/arithmeticoperator/ArithmeticoperatorDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/arithmeticoperator/ArithmeticoperatorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/arithmeticoperator/ArithmeticoperatorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/arithmeticoperator/ArithmeticoperatorDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/arithmeticoperator/ArithmeticoperatorDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/arithmeticoperator/ArithmeticoperatorDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/assigningoperator/AssigningoperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/compareoperator/CompareoperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/logicoperator/LogicoperatorDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/logicoperator/LogicoperatorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/logicoperator/LogicoperatorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/ternaryoperator/TernaryoperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/src/com/javastudy/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/03-运算符/03-note/03-运算符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/04-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/src/com/javastudy/ifdemo/IfDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/src/com/javastudy/ifdemo/IfDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/src/com/javastudy/orderdemo/OrderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/src/com/javastudy/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/src/com/javastudy/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/src/com/javastudy/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/src/com/javastudy/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/src/com/javastudy/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-note/04-判断和循环.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-note/img/1545615769372.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-note/img/1545616039363.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-note/img/1545616221283.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-note/img/1545616667104.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Java基础/01-Java入门/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/01-注释/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/01-注释/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-字面量/ValueDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-字面量/ValueDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/06-IDEA/src/com/javastudy/demo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/06-IDEA/src/com/javastudy/demo/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/06-IDEA/src/com/javastudy/demo1/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/01-Java入门.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/cmd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/image-20210923091350952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/image-20210923091527227.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/image-20210923091544110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/image-20210923091654365.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/image-20210923091710450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/image-20210923091721035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/01-Java入门/笔记/assets/image-20210923100419575.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/01-注释/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/01-注释/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-Java基础概念.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/02-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-字面量/ValueDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-字面量/ValueDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-字面量/ValueDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-字面量/ValueDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/03-变量/VariableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/04-数据类型/VariableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/04-数据类型/VariableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/04-数据类型/VariableTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/04-数据类型/VariableTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/04-数据类型/VariableTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/04-数据类型/VariableTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/04-数据类型/VariableTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/04-数据类型/VariableTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/05-键盘录入/ScannerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/05-键盘录入/ScannerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/05-键盘录入/ScannerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/05-键盘录入/ScannerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/06-IDEA/06-IDEA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/06-IDEA/src/com/javastudy/demo/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/02-Java基础概念.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea使用1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/idea安装9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/下载1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/下载2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/下载3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改模块名1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改模块名3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改模块名4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改模块名5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改类名1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改类名2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改类名3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改项目1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改项目2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改项目3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改项目4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改项目5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改项目6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/修改项目7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/关闭项目1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/关闭项目2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/关闭项目3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/删除模块1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/删除模块2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/删除模块3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/删除类文件1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/删除类文件2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/安装1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/安装2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/安装3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/安装4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/导入模块9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/打开项目1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/打开项目2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/打开项目3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建模块1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建模块2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建模块3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建模块4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建模块5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建模块6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建模块7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建类1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建类2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建类3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建项目1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建项目2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建项目3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建项目4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建项目5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/笔记/img/新建项目6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/03-运算符/笔记/03-运算符.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/04-判断和循环/笔记/04-判断和循环.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/04-判断和循环/笔记/img/1545615769372.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/04-判断和循环/笔记/img/1545616039363.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/04-判断和循环/笔记/img/1545616221283.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Java基础/04-判断和循环/笔记/img/1545616667104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,25 +320,59 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Highwe2hell&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Highwe2hell/JavaStudy.git&quot;,
+    &quot;accountId&quot;: &quot;b4f2bcd9-820a-49cf-94d0-461ebe87b11b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fr5fFZShH7SNHKuCCAEpHM0rjx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArithmeticoperatorDemo1.executor": "Run",
+    "Application.ArithmeticoperatorDemo2.executor": "Run",
+    "Application.HelloWorld (1).executor": "Run",
+    "Application.IfDemo1.executor": "Run",
+    "Application.ScannerDemo.executor": "Run",
+    "Application.ScannerTest.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test4.executor": "Run",
+    "Application.test1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Projects/JavaStudy/01-Java基础/02-Java基础概念",
+    "last_opened_file_path": "D:/Projects/LeetCode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,32 +381,109 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
+    "应用程序.ArithmeticoperatorDemo3.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo4.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo5.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo6.executor": "Run",
+    "应用程序.AssigningoperatorDemo.executor": "Run",
+    "应用程序.CompareoperatorDemo.executor": "Run",
     "应用程序.HelloWorld.executor": "Run",
+    "应用程序.LogicoperatorDemo1.executor": "Run",
+    "应用程序.LogicoperatorDemo2.executor": "Run",
+    "应用程序.LogicoperatorDemo3.executor": "Run",
     "应用程序.Main.executor": "Run",
-    "应用程序.ScannerDemo.executor": "Run"
+    "应用程序.ScannerDemo.executor": "Run",
+    "应用程序.TernaryoperatorDemo.executor": "Run",
+    "应用程序.Test2.executor": "Run",
+    "应用程序.Test3.executor": "Run",
+    "应用程序.Test4.executor": "Run",
+    "应用程序.Test5.executor": "Run",
+    "应用程序.test1.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.ScannerDemo">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javastudy.demo.HelloWorld" />
-      <module name="06-IDEA" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\JavaStudy\01-Java基础\04-判断和循环\04-code\src\com\javastudy\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.javastudy.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test4">
+    <configuration name="IfDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.ifdemo.IfDemo1" />
+      <module name="04-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastudy.ifdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScannerDemo" />
-      <module name="02-Java基础概念" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.test.Test1" />
+      <module name="04-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastudy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.test.Test2" />
+      <module name="04-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastudy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.test.Test3" />
+      <module name="04-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastudy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.test.Test4" />
+      <module name="04-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javastudy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ScannerDemo" />
-        <item itemvalue="应用程序.HelloWorld" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.IfDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +504,12 @@
       <option name="presentableId" value="Default" />
       <updated>1714546459300</updated>
       <workItem from="1714546460400" duration="1413000" />
+      <workItem from="1714548033478" duration="1251000" />
+      <workItem from="1714550318712" duration="236000" />
+      <workItem from="1714614918614" duration="5093000" />
+      <workItem from="1714622042623" duration="95000" />
+      <workItem from="1714622145695" duration="4183000" />
+      <workItem from="1714633295243" duration="6351000" />
     </task>
     <servers />
   </component>
@@ -126,6 +538,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

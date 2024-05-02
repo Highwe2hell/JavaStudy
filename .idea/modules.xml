@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01-Java基础/01-Java基础.iml" filepath="$PROJECT_DIR$/01-Java基础/01-Java基础.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-Java基础概念.iml" filepath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-Java基础概念.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01-Java基础/02-Java基础概念/06-IDEA/06-IDEA.iml" filepath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/06-IDEA/06-IDEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Java基础/01-Java入门/01-code/01-code.iml" filepath="$PROJECT_DIR$/01-Java基础/01-Java入门/01-code/01-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/02-code.iml" filepath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/02-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Java基础/03-运算符/03-code/03-code.iml" filepath="$PROJECT_DIR$/01-Java基础/03-运算符/03-code/03-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/04-code.iml" filepath="$PROJECT_DIR$/01-Java基础/04-判断和循环/04-code/04-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/06-IDEA/06-IDEA.iml" filepath="$PROJECT_DIR$/01-Java基础/02-Java基础概念/02-code/06-IDEA/06-IDEA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaStudy.iml" filepath="$PROJECT_DIR$/.idea/JavaStudy.iml" />
     </modules>
   </component>
