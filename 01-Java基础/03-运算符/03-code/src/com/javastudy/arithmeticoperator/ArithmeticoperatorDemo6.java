@@ -2,8 +2,8 @@ package com.javastudy.arithmeticoperator;
 
 public class ArithmeticoperatorDemo6 {
     public static void main(String[] args) {
-        // x++ 先用后加
-        // ++x 先加后用
+        // x++ 鍏堢敤鍚庡姞
+        // ++x 鍏堝姞鍚庣敤
         int x = 10;
         int y = x++;
         int z = ++x;

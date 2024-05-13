@@ -1,10 +1,10 @@
 public class VariableTest3 {
     public static void main(String[] args) {
-        // ¶¨Òå±äÁ¿¼ÇÂ¼ÊÖ»úµÄ¼Û¸ñ
+        // å®šä¹‰å˜é‡è®°å½•æ‰‹æœºçš„ä»·æ ¼
         double price = 5299.0;
-        // ¶¨Òå±äÁ¿¼ÇÂ¼ÊÖ»úµÄÆ·ÅÆ
-        String name = "»ªÎª";
-        // Êä³ö
+        // å®šä¹‰å˜é‡è®°å½•æ‰‹æœºçš„å“ç‰Œ
+        String name = "åä¸º";
+        // è¾“å‡º
         System.out.println(price);
         System.out.println(name);
     }

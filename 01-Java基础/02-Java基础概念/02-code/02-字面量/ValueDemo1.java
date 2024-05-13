@@ -1,28 +1,28 @@
 public class ValueDemo1 {
     public static void main(String[] args) {
-        // Ä¿±ê£ºÕÆÎÕ³£¼ûµÄÊı¾İÔÚ´úÂëÖĞÈçºÎÊéĞ´
+        // ç›®æ ‡ï¼šæŒæ¡å¸¸è§çš„æ•°æ®åœ¨ä»£ç ä¸­å¦‚ä½•ä¹¦å†™
 
-        // ÕûÊı
+        // æ•´æ•°
         System.out.println("666");
         System.out.println("-777");
 
-        // Ğ¡Êı
+        // å°æ•°
         System.out.println("1.93");
         System.out.println("-3.71");
 
-        // ×Ö·û´®
-        System.out.println("ÄãºÃ");
-        System.out.println("ÊÀ½ç");
+        // å­—ç¬¦ä¸²
+        System.out.println("ä½ å¥½");
+        System.out.println("ä¸–ç•Œ");
 
-        // ×Ö·û
-        System.out.println('ÄĞ');
-        System.out.println('Å®');
+        // å­—ç¬¦
+        System.out.println('ç”·');
+        System.out.println('å¥³');
 
-        // ²¼¶û
+        // å¸ƒå°”
         System.out.println(true);
         System.out.println(false);
 
-        // ¿Õ£¬²»ÄÜÖ±½Ó´òÓ¡
+        // ç©ºï¼Œä¸èƒ½ç›´æ¥æ‰“å°
         // System.out.println(null);
     }
 }

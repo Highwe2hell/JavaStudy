@@ -1,14 +1,14 @@
 public class VariableDemo1 {
     public static void main(String[] args) {
 		/*
-		¶¨Òå±äÁ¿
-		Êý¾ÝÀàÐÍ ±äÁ¿Ãû = Êý¾ÝÖµ;
-		Êý¾ÝÀàÐÍ£ºÏÞ¶¨ÁË±äÁ¿ÄÜ´æ´¢Êý¾ÝµÄÀàÐÍ
-		int£¨ÕûÐÎ£© double£¨Ð¡Êý£©
-		±äÁ¿Ãû£º¾ÍÊÇ´æ´¢¿Õ¼äµÄÃû×Ö
-		×÷ÓÃ£º·½±ãÒÔºóÊ¹ÓÃ
-		Êý¾ÝÖµ£ºÕæÕý´æÔÚ±äÁ¿ÖÐµÄÊý¾Ý
-		µÈºÅ£º¸³Öµ¡£°ÑÓÒ±ßµÄÊý¾Ý¸³Öµ¸ø×ó±ßµÄ±äÁ¿
+		å®šä¹‰å˜é‡
+		æ•°æ®ç±»åž‹ å˜é‡å = æ•°æ®å€¼;
+		æ•°æ®ç±»åž‹ï¼šé™å®šäº†å˜é‡èƒ½å­˜å‚¨æ•°æ®çš„ç±»åž‹
+		intï¼ˆæ•´å½¢ï¼‰ doubleï¼ˆå°æ•°ï¼‰
+		å˜é‡åï¼šå°±æ˜¯å­˜å‚¨ç©ºé—´çš„åå­—
+		ä½œç”¨ï¼šæ–¹ä¾¿ä»¥åŽä½¿ç”¨
+		æ•°æ®å€¼ï¼šçœŸæ­£å­˜åœ¨å˜é‡ä¸­çš„æ•°æ®
+		ç­‰å·ï¼šèµ‹å€¼ã€‚æŠŠå³è¾¹çš„æ•°æ®èµ‹å€¼ç»™å·¦è¾¹çš„å˜é‡
 		*/
         int a = 10;
         System.out.println(a);

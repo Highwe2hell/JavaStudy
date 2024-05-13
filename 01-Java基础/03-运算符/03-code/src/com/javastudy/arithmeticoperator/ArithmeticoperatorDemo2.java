@@ -2,12 +2,12 @@ package com.javastudy.arithmeticoperator;
 
 public class ArithmeticoperatorDemo2 {
     public static void main(String[] args) {
-        // 除法
+        // 闄ゆ硶
         System.out.println(10 / 2);
         System.out.println(10 / 3);
         System.out.println(10.0 / 3);
 
-        // 取模,取余
+        // 鍙栨ā,鍙栦綑
         System.out.println(10 % 2);
         System.out.println(10 % 3);
     }

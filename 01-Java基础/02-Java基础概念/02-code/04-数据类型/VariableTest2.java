@@ -1,14 +1,14 @@
 public class VariableTest2 {
     public static void main(String[] args) {
-        // ¶¨Òå±äÁ¿¼ÇÂ¼µçÓ°µÄÃû×Ö
-        String name = "ËÍ³õÁµ»Ø¼Ò";
-        // ¶¨Òå±äÁ¿¼ÇÂ¼Ö÷ÑİµÄÃû×Ö
-        String tostar = "ÁõöÎ ÕÅÓêÌá ¸ßæÂ";
-        // ¶¨Òå±äÁ¿¼ÇÂ¼µçÓ°µÄÄê·İ
+        // å®šä¹‰å˜é‡è®°å½•ç”µå½±çš„åå­—
+        String name = "é€åˆæ‹å›å®¶";
+        // å®šä¹‰å˜é‡è®°å½•ä¸»æ¼”çš„åå­—
+        String tostar = "åˆ˜é‘« å¼ é›¨æ é«˜åª›";
+        // å®šä¹‰å˜é‡è®°å½•ç”µå½±çš„å¹´ä»½
         int year = 202202;
-        // ¶¨Òå±äÁ¿¼ÇÂ¼µçÓ°µÄÆÀ·Ö
+        // å®šä¹‰å˜é‡è®°å½•ç”µå½±çš„è¯„åˆ†
         double grade = 9.0;
-        // Êä³ö
+        // è¾“å‡º
         System.out.println(name);
         System.out.println(tostar);
         System.out.println(year);

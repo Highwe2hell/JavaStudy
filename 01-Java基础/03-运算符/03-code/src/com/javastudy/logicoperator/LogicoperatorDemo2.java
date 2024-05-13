@@ -2,13 +2,13 @@ package com.javastudy.logicoperator;
 
 public class LogicoperatorDemo2 {
     public static void main(String[] args) {
-        // 1.^Òì»ò£ºÏàÍ¬Îªfalse£¬²»Í¬Îªtrue
+        // 1.^å¼‚æˆ–ï¼šç›¸åŒä¸ºfalseï¼Œä¸åŒä¸ºtrue
         System.out.println(true ^ true);// false
         System.out.println(false ^ false);// false
         System.out.println(true ^ false);// true
         System.out.println(false ^ true);// true
 
-        // 2.!·Ç
+        // 2.!é
         System.out.println(!false);// true
         System.out.println(!true);// false
     }

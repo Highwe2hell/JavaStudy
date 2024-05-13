@@ -4,19 +4,19 @@ import java.util.Scanner;
 
 public class Test1 {
     public static void main(String[] args) {
-        // ¼üÅÌÂ¼ÈëÒ»¸öÈıÎ»Êı£¬»ñÈ¡ÆäÖĞµÄ¸öÎ»£¬Ê®Î»°ÙÎ»
+        // é”®ç›˜å½•å…¥ä¸€ä¸ªä¸‰ä½æ•°ï¼Œè·å–å…¶ä¸­çš„ä¸ªä½ï¼Œåä½ç™¾ä½
 
-        // 1.¼üÅÌÂ¼Èë
+        // 1.é”®ç›˜å½•å…¥
         Scanner sc = new Scanner(System.in);
-        System.out.println("ÇëÊäÈëÒ»¸öÈıÎ»Êı");
+        System.out.println("è¯·è¾“å…¥ä¸€ä¸ªä¸‰ä½æ•°");
         int num = sc.nextInt();
 
-        // 2.»ñÈ¡¸öÎ»£¬Ê®Î»£¬°ÙÎ»
+        // 2.è·å–ä¸ªä½ï¼Œåä½ï¼Œç™¾ä½
         int ge = num % 10;
         int shi = num / 10 % 10;
         int bai = num / 100 % 10;
-        System.out.println("¸öÎ»ÊÇ£º" + ge);
-        System.out.println("Ê®Î»ÊÇ£º" + shi);
-        System.out.println("°ÙÎ»ÊÇ£º" + bai);
+        System.out.println("ä¸ªä½æ˜¯ï¼š" + ge);
+        System.out.println("åä½æ˜¯ï¼š" + shi);
+        System.out.println("ç™¾ä½æ˜¯ï¼š" + bai);
     }
 }

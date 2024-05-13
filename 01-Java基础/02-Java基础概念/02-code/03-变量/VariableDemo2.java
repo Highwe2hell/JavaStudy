@@ -1,27 +1,27 @@
 public class VariableDemo2 {
     public static void main(String[] args) {
-        // 1.»ù±¾ÓÃ·¨
-        // ¶¨Òå±äÁ¿£¬ÔÙ½øĞĞÊä³ö
+        // 1.åŸºæœ¬ç”¨æ³•
+        // å®šä¹‰å˜é‡ï¼Œå†è¿›è¡Œè¾“å‡º
         int a = 10;
         System.out.println(a);// 10
 
-        // 2.±äÁ¿²ÎÓë¼ÆËã
+        // 2.å˜é‡å‚ä¸è®¡ç®—
         int b = 30;
         int c = 20;
         System.out.println(b + c);// 50
 
-        // 3.ĞŞ¸Ä±äÁ¿¼ÇÂ¼µÄÖµ
+        // 3.ä¿®æ”¹å˜é‡è®°å½•çš„å€¼
         a = 50;
         System.out.println(a);// 50
 
-        // ×¢ÒâÊÂÏî
-        // ÔÚÒ»ÌõÓï¾äÖĞ£¬¿ÉÒÔ¶¨Òå¶à¸ö±äÁ¿
+        // æ³¨æ„äº‹é¡¹
+        // åœ¨ä¸€æ¡è¯­å¥ä¸­ï¼Œå¯ä»¥å®šä¹‰å¤šä¸ªå˜é‡
         int d = 100, e = 200, f = 300;
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
 
-        // ÔÚ±äÁ¿Ê¹ÓÃÇ°±ØĞëÒª¸³Öµ
+        // åœ¨å˜é‡ä½¿ç”¨å‰å¿…é¡»è¦èµ‹å€¼
         int g;
         g = 500;
         System.out.println(g);

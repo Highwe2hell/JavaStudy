@@ -1,16 +1,16 @@
-// 1.µ¼°ü
+// 1.å¯¼åŒ…
 
 import java.util.Scanner;
 
 public class ScannerTest {
     public static void main(String[] args) {
-        // 2.´´½¨¶ÔÏó
+        // 2.åˆ›å»ºå¯¹è±¡
         Scanner sc = new Scanner(System.in);
 
-        // 3.½ÓÊÕÊı
-        System.out.println("ÇëÊäÈëµÚÒ»¸öÊı×Ö");
+        // 3.æ¥æ”¶æ•°
+        System.out.println("è¯·è¾“å…¥ç¬¬ä¸€ä¸ªæ•°å­—");
         int n1 = sc.nextInt();
-        System.out.println("ÇëÊäÈëµÚ¶ş¸öÊı×Ö");
+        System.out.println("è¯·è¾“å…¥ç¬¬äºŒä¸ªæ•°å­—");
         int n2 = sc.nextInt();
 
         System.out.println(n1 + n2);

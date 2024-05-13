@@ -2,9 +2,9 @@ package com.javastudy.orderdemo;
 
 public class OrderDemo {
     public static void main(String[] args) {
-        System.out.println("Å¬Á¦×öÖ÷ÈËÏ²»¶µÄÊÂ");
-        System.out.println("´óĞ¡½ã¼İµ½£¡Í³Í³ÉÁ¿ª£¡");
-        System.out.println("Áİ¶¬ÒÑÖÁ£¬¹ÊÏçµÄÃ·»¨¿ªÁËÂğ");
-        System.out.println("ĞÄ»³²»¾å£¬·½ÄÜ°¿ÏèÓÚÌì¼Ê");
+        System.out.println("åŠªåŠ›åšä¸»äººå–œæ¬¢çš„äº‹");
+        System.out.println("å¤§å°å§é©¾åˆ°ï¼ç»Ÿç»Ÿé—ªå¼€ï¼");
+        System.out.println("å‡›å†¬å·²è‡³ï¼Œæ•…ä¹¡çš„æ¢…èŠ±å¼€äº†å—");
+        System.out.println("å¿ƒæ€€ä¸æƒ§ï¼Œæ–¹èƒ½ç¿±ç¿”äºå¤©é™…");
     }
 }

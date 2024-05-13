@@ -4,15 +4,15 @@ import java.util.Scanner;
 
 public class IfDemo1 {
     public static void main(String[] args) {
-        // ĞèÇó£º¼üÅÌÂ¼ÈëÅ®Ğö¾ÆÁ¿£¬Èç¹û´óÓÚ 2 ½ï£¬ÀÏÕÉÈË¸ø³ö»ØÓ¦£¬·´Ö®²»»ØÓ¦
+        // éœ€æ±‚ï¼šé”®ç›˜å½•å…¥å¥³å©¿é…’é‡ï¼Œå¦‚æœå¤§äº 2 æ–¤ï¼Œè€ä¸ˆäººç»™å‡ºå›åº”ï¼Œåä¹‹ä¸å›åº”
 
-        // 1.¼üÅÌÂ¼ÈëÅ®ĞöµÄ¾ÆÁ¿
+        // 1.é”®ç›˜å½•å…¥å¥³å©¿çš„é…’é‡
         Scanner sc = new Scanner(System.in);
-        System.out.println("ÇëÊäÈëÅ®ĞöµÄ¾ÆÁ¿");
+        System.out.println("è¯·è¾“å…¥å¥³å©¿çš„é…’é‡");
         int wine = sc.nextInt();
-        // 2.¶Ô¾ÆÁ¿½øĞĞÅĞ¶Ï
+        // 2.å¯¹é…’é‡è¿›è¡Œåˆ¤æ–­
         if (wine > 2) {
-            System.out.println("Ğ¡»ï×Ó£¬²»´í°¡£¡");
+            System.out.println("å°ä¼™å­ï¼Œä¸é”™å•Šï¼");
         }
     }
 }

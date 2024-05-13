@@ -3,17 +3,17 @@ package com.javastudy.assigningoperator;
 public class AssigningoperatorDemo {
     public static void main(String[] args) {
         // +=
-        // ¹æÔò£º½«×ó±ßºÍÓÒ±ß½øĞĞÏà¼Ó£¬È»ºó°Ñ½á¹û¸³Öµ¸ø×ó±ß
+        // è§„åˆ™ï¼šå°†å·¦è¾¹å’Œå³è¾¹è¿›è¡Œç›¸åŠ ï¼Œç„¶åæŠŠç»“æœèµ‹å€¼ç»™å·¦è¾¹
         int a = 10;
         int b = 20;
-        a += b;// µÈ¼ÛÓÚa = a + b;
+        a += b;// ç­‰ä»·äºa = a + b;
         System.out.println(a);
         System.out.println(b);
 
-        // Ï¸½Ú£º
-        //+= -= *= /= %= µ×²ã¶¼Òş²ØÁËÒ»¸öÇ¿ÖÆÀàĞÍ×ª»»
+        // ç»†èŠ‚ï¼š
+        //+= -= *= /= %= åº•å±‚éƒ½éšè—äº†ä¸€ä¸ªå¼ºåˆ¶ç±»å‹è½¬æ¢
         short s = 1;
-        s += 1;// µÈ¼ÛÓÚs = (short) (s + 1);
+        s += 1;// ç­‰ä»·äºs = (short) (s + 1);
         System.out.println(s);
     }
 }

@@ -1,16 +1,16 @@
 public class VariableTest1 {
     public static void main(String[] args) {
-        // ¶¨Òå±äÁ¿¼ÇÂ¼ĞÕÃû
-        String name = "ºÚÂí";
-        // ¶¨Òå±äÁ¿¼ÇÂ¼ÄêÁä
+        // å®šä¹‰å˜é‡è®°å½•å§“å
+        String name = "é»‘é©¬";
+        // å®šä¹‰å˜é‡è®°å½•å¹´é¾„
         int age = 18;
-        // ¶¨Òå±äÁ¿¼ÇÂ¼ĞÔ±ğ
-        char gender = 'ÄĞ';
-        // ¶¨Òå±äÁ¿¼ÇÂ¼Éí¸ß
+        // å®šä¹‰å˜é‡è®°å½•æ€§åˆ«
+        char gender = 'ç”·';
+        // å®šä¹‰å˜é‡è®°å½•èº«é«˜
         double height = 180;
-        // ¶¨Òå±äÁ¿¼ÇÂ¼ÊÇ·ñµ¥Éí
+        // å®šä¹‰å˜é‡è®°å½•æ˜¯å¦å•èº«
         boolean flage = true;
-        // Êä³ö
+        // è¾“å‡º
         System.out.println(name);
         System.out.println(age);
         System.out.println(gender);

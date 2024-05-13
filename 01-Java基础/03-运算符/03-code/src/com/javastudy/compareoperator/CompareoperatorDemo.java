@@ -2,14 +2,14 @@ package com.javastudy.compareoperator;
 
 public class CompareoperatorDemo {
     public static void main(String[] args) {
-        // 1.==ÅĞ¶Ï×óÓÒÁ½±ßÊÇ·ñÏàµÈ
+        // 1.==åˆ¤æ–­å·¦å³ä¸¤è¾¹æ˜¯å¦ç›¸ç­‰
         int a = 10;
         int b = 10;
         int c = 20;
         System.out.println(a == b);
         System.out.println(a == c);
 
-        // 2.!=ÅĞ¶Ï×óÓÒÁ½±ßÊÇ·ñ²»ÏàµÈ
+        // 2.!=åˆ¤æ–­å·¦å³ä¸¤è¾¹æ˜¯å¦ä¸ç›¸ç­‰
         System.out.println(a != b);
         System.out.println(a != c);
     }

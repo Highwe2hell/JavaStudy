@@ -9,7 +9,7 @@ public class ArithmeticoperatorDemo1 {
         // *
         System.out.println(7 * 9);
 
-        // 如果有小数，结果有可能不精确
+        // 濡傛灉鏈夊皬鏁帮紝缁撴灉鏈夊彲鑳戒笉绮剧‘
         System.out.println(1.1 + 1.01);
         System.out.println(1.1 - 1.01);
         System.out.println(1.1 * 1.01);

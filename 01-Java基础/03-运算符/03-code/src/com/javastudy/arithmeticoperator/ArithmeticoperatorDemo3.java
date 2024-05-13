@@ -2,7 +2,7 @@ package com.javastudy.arithmeticoperator;
 
 public class ArithmeticoperatorDemo3 {
     public static void main(String[] args) {
-        // byte,char,short在运算的时候，会自动转为int
+        // byte,char,short鍦ㄨ繍绠楃殑鏃跺�欙紝浼氳嚜鍔ㄨ浆涓篿nt
         byte b1 = 10;
         byte b2 = 20;
         byte result = (byte) (b1 + b2);

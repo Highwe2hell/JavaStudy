@@ -13,12 +13,12 @@ public class VariableDemo {
         System.out.println(i);
 
         // long
-        // ÔÚÊı¾İÖµºóÃæ¼ÓÒ»¸öl/L×÷Îªºó×º
+        // åœ¨æ•°æ®å€¼åé¢åŠ ä¸€ä¸ªl/Lä½œä¸ºåç¼€
         long l = 9999999999999L;
         System.out.println(l);
 
         // float
-        // ¼Óf/F×÷ºó×º
+        // åŠ f/Fä½œåç¼€
         float f = 10.1F;
         System.out.println(f);
 
@@ -27,7 +27,7 @@ public class VariableDemo {
         System.out.println(d);
 
         // char
-        char c = 'ÖĞ';
+        char c = 'ä¸­';
         System.out.println(c);
 
         // boolean

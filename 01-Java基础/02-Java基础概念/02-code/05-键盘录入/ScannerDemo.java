@@ -1,14 +1,14 @@
-// 1.µ¼°ü£¬ÕÒµ½ScannerÀà
+// 1.å¯¼åŒ…ï¼Œæ‰¾åˆ°Scannerç±»
 
 import java.util.Scanner;
 
 public class ScannerDemo {
     public static void main(String[] args) {
-        // 2.´´½¨¶ÔÏó£¬±íÊ¾ÎÒÏÖÔÚ×¼±¸ÒªÓÃScannerÕâ¸öÀà
+        // 2.åˆ›å»ºå¯¹è±¡ï¼Œè¡¨ç¤ºæˆ‘ç°åœ¨å‡†å¤‡è¦ç”¨Scannerè¿™ä¸ªç±»
         Scanner sc = new Scanner(System.in);
 
-        // 3.½ÓÊÕÊı¾İ
-        System.out.println("ÇëÊäÈëÒ»¸öÕûÊı");
+        // 3.æ¥æ”¶æ•°æ®
+        System.out.println("è¯·è¾“å…¥ä¸€ä¸ªæ•´æ•°");
         int i = sc.nextInt();
 
         System.out.println(i);

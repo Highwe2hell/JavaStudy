@@ -2,20 +2,20 @@ package com.javastudy.logicoperator;
 
 public class LogicoperatorDemo3 {
     public static void main(String[] args) {
-        // 1.&&¶ÌÂ·Óë
+        // 1.&&çŸ­è·¯ä¸
         System.out.println(true & true);// true
         System.out.println(false & false);// false
         System.out.println(true & false);// false
         System.out.println(false & true);// false
 
-        // 2.||¶ÌÂ·»ò
+        // 2.||çŸ­è·¯æˆ–
         System.out.println(true | true);// true
         System.out.println(false | false);// false
         System.out.println(true | false);// true
         System.out.println(false | true);// true
 
-        // 3.¶ÌÂ·Âß¼­ÔËËã·û¾ßÓĞ¶ÌÂ·Ğ§¹û
-        // ¼òµ¥Àí½â£ºµ±×ó±ßµÄ±í´ïÊ½ÄÜÈ·¶¨×îÖÕµÄ½á¹û£¬ÄÇÃ´ÓÒ±ß¾Í²»»á²ÎÓëÔËĞĞÁË
+        // 3.çŸ­è·¯é€»è¾‘è¿ç®—ç¬¦å…·æœ‰çŸ­è·¯æ•ˆæœ
+        // ç®€å•ç†è§£ï¼šå½“å·¦è¾¹çš„è¡¨è¾¾å¼èƒ½ç¡®å®šæœ€ç»ˆçš„ç»“æœï¼Œé‚£ä¹ˆå³è¾¹å°±ä¸ä¼šå‚ä¸è¿è¡Œäº†
         int a = 10;
         int b = 10;
         boolean result = ++a < 5 && ++b < 5;
